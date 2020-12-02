@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/car-parkingtool-app/static/css/main.39e5b052.chunk.css",
-    "main.js": "/car-parkingtool-app/static/js/main.29ab1d39.chunk.js",
-    "main.js.map": "/car-parkingtool-app/static/js/main.29ab1d39.chunk.js.map",
+    "main.js": "/car-parkingtool-app/static/js/main.b88cbff3.chunk.js",
+    "main.js.map": "/car-parkingtool-app/static/js/main.b88cbff3.chunk.js.map",
     "runtime-main.js": "/car-parkingtool-app/static/js/runtime-main.3d09c4c8.js",
     "runtime-main.js.map": "/car-parkingtool-app/static/js/runtime-main.3d09c4c8.js.map",
     "static/css/2.5d385725.chunk.css": "/car-parkingtool-app/static/css/2.5d385725.chunk.css",
-    "static/js/2.40575518.chunk.js": "/car-parkingtool-app/static/js/2.40575518.chunk.js",
-    "static/js/2.40575518.chunk.js.map": "/car-parkingtool-app/static/js/2.40575518.chunk.js.map",
+    "static/js/2.fc38d927.chunk.js": "/car-parkingtool-app/static/js/2.fc38d927.chunk.js",
+    "static/js/2.fc38d927.chunk.js.map": "/car-parkingtool-app/static/js/2.fc38d927.chunk.js.map",
     "index.html": "/car-parkingtool-app/index.html",
     "static/css/2.5d385725.chunk.css.map": "/car-parkingtool-app/static/css/2.5d385725.chunk.css.map",
     "static/css/main.39e5b052.chunk.css.map": "/car-parkingtool-app/static/css/main.39e5b052.chunk.css.map",
-    "static/js/2.40575518.chunk.js.LICENSE.txt": "/car-parkingtool-app/static/js/2.40575518.chunk.js.LICENSE.txt"
+    "static/js/2.fc38d927.chunk.js.LICENSE.txt": "/car-parkingtool-app/static/js/2.fc38d927.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3d09c4c8.js",
     "static/css/2.5d385725.chunk.css",
-    "static/js/2.40575518.chunk.js",
+    "static/js/2.fc38d927.chunk.js",
     "static/css/main.39e5b052.chunk.css",
-    "static/js/main.29ab1d39.chunk.js"
+    "static/js/main.b88cbff3.chunk.js"
   ]
 }
